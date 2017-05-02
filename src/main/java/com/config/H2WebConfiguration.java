@@ -1,4 +1,4 @@
-package com.config;
+/*package com.config;
 
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
@@ -20,3 +20,4 @@ public class H2WebConfiguration {
 
 
 }
+*/
