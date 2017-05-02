@@ -2,7 +2,7 @@
 Spring boot project with H2 database
 
 H2 Database Console url: http://localhost:8080/console
-Put these details to connect to in memory database -
+\nPut these details to connect to in memory database -
 Settings Name: Generic H2
 JDBC URL : jdbc:h2:mem:test
 Driver   : org.h2.Driver
